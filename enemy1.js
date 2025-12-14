@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 const CANVAS_WIDTH = (canvas.width = 800);
 const CANVAS_HEIGHT = (canvas.height = 800);
 
-const numberOfEnemies = 10;
+const numberOfEnemies = 1;
 const enmitesArray = [];
 
 const enemyImage = new Image();
